@@ -58,3 +58,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer passionate abou
 I'm continuously learning, experimenting, and building projects to turn ideas into useful applications. Every project is an opportunity to improve my skills and become a better developer.
 
 **Thanks for visiting my profile!** Feel free to explore my repositories and follow my development journey. 🚀
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/arjunmapari/arjunmapari/output/github-snake.svg)
