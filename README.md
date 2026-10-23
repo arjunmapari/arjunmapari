@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer passionate abou
 ## 🤝 Connect With Me
 
 - 🐙 **GitHub:** [@arjunmapari](https://github.com/arjunmapari)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL
+- 💼 **LinkedIn:** https://www.linkedin.com/in/arjun-mapari-a0475b3b3/
 - 🌐 **Portfolio:** Add your portfolio URL when available
 
 ---
